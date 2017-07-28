@@ -1,7 +1,7 @@
 # quickstart.py
 # tested in python 2.7.12
 # implements send SMS example in
-# https://developer.syniverse.com/#!/embed/~2Fsaop-docs~2Fgendocs~2FQuickStartup.html
+# https://sdcdocumentation.syniverse.com/index.php/sms/quick-start
 
 import requests
 
